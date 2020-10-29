@@ -1,0 +1,236 @@
+Aeron
+Alamofire
+Android Architecture Components
+Angular
+AngularJS
+AngularJS and Knockout
+Apache Beam
+Apollo
+ARKit/ARCore
+Arrow
+AssertJ
+Atlas and BeeHive
+Aurelia
+Avro
+Axon
+Babylon.js
+Backbone.js
+Blazor
+Butterknife
+C# 4.0
+Caffe
+Camunda
+Care about languages
+Chaos Toolkit
+Clara rules
+Clinic.js Bubbleprof
+Clojure
+ClojureScript
+CoffeeScript
+Component-based frameworks
+Concurrent languages
+Core Async
+CSS frameworks
+CSS Grid Layout
+CSS Modules
+CSS-in-JS
+Cylon.js
+Dagger
+Dapper
+Dashing
+Dask
+DeepLearning.scala
+Deequ
+Digdag
+Django REST
+Domain-Specific Languages
+Dropwizard
+Druid
+ECharts
+ECMAScript 2017
+Elixir
+Elm
+Embark
+Ember.js
+Enlive
+Enzyme
+ERNIE
+ES6
+Exposed
+F#
+Fairseq
+fastai
+Fastify
+Fetch
+Flair
+Flight.js
+Flutter
+Flutter Driver
+Formik
+Frege
+Functional Java
+Functional languages
+Future of Java
+Gatsby.js
+Go language
+Gobot
+Google Dart
+GraphQL
+GraphQL Inspector
+Gremlin
+Groovy
+HAL
+HAML
+Handwritten CSS
+Hangfire
+HashiCorp Sentinel
+Haskell Hadoop library
+Hermes
+Hive
+HiveRunner
+HTML 5
+HTML5 for offline applications
+http4k
+Hyperapp
+Hyperledger Composer
+HyperResource
+Immer
+Immutable.js
+Instana
+io-ts
+Ionic Framework
+Jasmine paired with Node.js
+Java 8
+Java language end of life
+JavaScript as a first class language
+JavaScript as a platform
+JavaScript MV* frameworks
+Jepsen
+Jest
+jest-when
+joi
+JSF
+JSPatch
+Julia
+JuMP
+Karate
+Kedro
+Keras
+Knet.jl
+Koin
+Kotlin
+KotlinTest
+Ktor
+Laconia
+LeakCanary
+LitElement
+Logic in stored procedures
+Lotus
+Lua
+Material UI
+MediaPipe
+Micronaut
+MMKV
+Mock Service Worker
+MockK
+Nameko
+Nancy
+Nashorn
+NestJS
+Next.js
+Nightwatch
+OkHttp
+Om
+OpenZeppelin
+OWIN
+Paged.js
+Pester
+Phoenix
+Physical Web
+Play Framework 2
+Pointer Events
+Polly.js
+Pose
+PostCSS
+PredictionIO
+Puppeteer
+Python 3
+PyTorch
+Q &amp; Bluebird
+Q#
+Quarkus
+Quick and Nimble
+R as Compute Platform
+Rapidoid
+Rasa
+React Hooks
+React Native
+React Testing Library
+React.js
+ReactiveX
+Reactor
+Reagent
+ReasonML
+Recharts
+Recoil
+Redux
+Require.js
+Require.js &amp; NPM
+Resilience4j
+ReSwift
+Retrofit
+RIBs
+Robolectric
+Room
+Ruby
+RubyMotion
+Rust
+SAFE stack
+Sarama
+SASS, SCSS, LESS, and Stylus
+Scala, the good parts
+Scratch, Alice, and Kodu
+SignalR
+Sinatra
+single-spa
+Snorkel
+Solidity
+Spek
+Spray/akka-http
+Spring Boot
+Spring Cloud
+Streamlit
+Strikt
+Styled components
+Svelte
+Swift
+SwiftNIO
+SwiftUI
+SWR
+Taiko
+Tailwind CSS
+Tamer
+TensorFlow
+Tensorflow Eager Execution
+TensorFlow Lite
+TensorFlow Mobile
+Testcontainers
+Testing Library
+Three.js
+TLA+
+Traveling Ruby
+troposphere
+Truffle
+Twitter Bootstrap
+TypeScript
+Vapor
+Vue.js
+Web API
+WebAssembly
+WebFlux
+WebRTC
+Weex
+Wire
+Wolfram Language
+XState
+Yeoman

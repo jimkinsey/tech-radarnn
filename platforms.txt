@@ -1,0 +1,255 @@
+.NET Core
+Akka
+ALT.NET
+Amazon API Gateway
+Amundsen
+Android
+Anka
+Anthos
+Apache Atlas
+Apache Flink
+Apache Kylin
+Apache Mesos
+Apache Pulsar
+Apache Spark
+Apollo Auto
+App containers
+AppHarbor
+Application appliances
+Application Servers
+Argo CD
+ARM Server SoC
+ATOM
+Auth0
+AWS
+AWS Application Load Balancer
+AWS Cloud Development Kit
+AWS Device Farm
+AWS ECS
+AWS Fargate
+AWS Lambda
+Azure
+Azure DevOps
+Azure Pipelines
+Azure Service Fabric
+Azure Stack
+Backend as a service
+Backstage
+Big enterprise solutions
+BigQuery
+Bluetooth Mesh
+Buying solutions you can only afford one of
+Calatrava
+Care about hardware
+Cassandra carefully
+Ceph
+Chrome
+Chrome OS
+Cloud
+Cloud Foundry
+Cloud Spanner
+Cloud-based image comprehension
+Cloudera Impala
+CloudEvents
+Cloudflare Workers
+CMS as a platform
+CoAP
+CockroachDB
+Communication between those responsible for hardware and software
+Contentful
+Continuous integration in the cloud
+Corda
+CoreOS
+Cosmos
+Cosmos DB
+Couchbase
+Crowdin
+Crux
+Data-hungry packages
+DataStax Enterprise Graph
+Datomic
+Debezium
+Deflect
+Deis
+Delta Lake
+Deno
+DialogFlow
+DigitalOcean
+Docker
+Domain-specific PaaS
+Dremio
+DuckDB
+eBPF
+EC2 &amp; S3
+Elastic Search
+Electron
+EMQ
+Enterprise Data Warehouse
+ESP8266
+Espruino
+Ethereum
+EventStore
+EVM beyond Ethereum
+Facebook as business platform
+Fastly
+Firebase
+Firefox
+Fission
+Flood IO
+FoundationDB
+GCP Pub/Sub
+GKE
+Glitch
+Godot
+Google App Engine
+Google as corporate platform
+Google BigQuery ML
+Google Cloud Dataflow
+Google Cloud Platform
+GPGPU
+GraalVM
+gVisor
+GWT
+H2O
+Hadoop 2.0
+Hadoop as a service
+Heroku
+HoloLens
+Honeycomb
+Hot Chocolate
+HSTS
+Hybrid clouds
+Hydra
+Hyperledger
+iBeacon
+IE6 End of Life
+IE8
+IndiaStack
+InfluxDB
+Interledger
+IPFS
+iPhone
+Istio
+Jackrabbit Oak
+Java portal servers
+JRuby
+JupyterLab
+JVM as platform
+K3s
+Kafka Streams
+Keycloak
+Knative
+Kubernetes
+Kuma
+KVM
+Language Server Protocol
+Large format mobile devices
+Linux containers
+Linux Security Modules
+Location based services
+LoRaWAN
+Low-code platforms
+Low-cost robotics
+Mapbox
+MapD
+MariaDB
+Marquez
+Materialize
+Matomo
+MeiliSearch
+MemSQL
+Mesosphere DCOS
+Meteor.js
+MicroK8s
+Microsoft Nano Server
+MinIO
+Mobile payment systems
+Mobile web
+MongoDB
+Mongoose OS
+Mosquitto
+Neo4J
+Netflix OSS Full stack
+Netlify
+Node overload
+Node.js
+Nomad
+Non-relational databases
+Nuance Mix
+OAuth
+Oculus Quest
+ONNX
+Open source IaaS
+OpenAM
+OpenID Connect
+OpenSocial
+OpenStack
+OpenTelemetry
+OpenVR
+OSGi
+Overambitious API gateways
+Particle Photon/Particle Electron
+PhoneGap/Apache Cordova
+Pivotal Cloud Foundry
+PlatformIO
+PostgreSQL for NoSQL
+Presto
+Private Clouds
+Prophet
+Pulumi
+Quorum
+Rackspace Cloud
+Rancher
+RDFa
+Realm
+Redis
+Resin.io
+RIA
+Riak
+Rook
+Rootless containers
+ROS
+Sandstorm
+SDN
+Shared VPC
+Single threaded servers with asynchronous I/O
+Singleton infrastructure
+SMS and USSD as a UI
+Snowflake
+SPDY
+SPIFFE
+Storm
+Stratos
+Superficial private cloud
+Tablet
+Tango
+Tarantool
+Tekton
+Teleport
+Tendermint
+TensorFlow Serving
+Text it as a service / Rapidpro.io
+TICK Stack
+Time series databases
+TimescaleDB
+TOTP Two-Factor Authentication
+Treating VMs like physical infrastructure
+Trillian
+Trust over IP stack
+U2F
+Ubiquitous computing
+Unity beyond gaming
+Vert.x
+vFabric
+Voice platforms
+Vumi
+Web Bluetooth
+Web Components standard
+WebVR
+WeChat
+Windows Containers
+Windows Phone
+wit.ai
+WS-*
+Zepto.js
+Zero-code packages

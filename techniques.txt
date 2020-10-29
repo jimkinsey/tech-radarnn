@@ -1,0 +1,274 @@
+1% canary
+&#34;Handcranking&#34; of Hadoop clusters using config management tools
+10x engineers
+A single CI instance for all teams
+Acceptance test of journeys
+Accumulate-only data
+Advanced analytics
+Aggregates as documents
+Agile analytics
+Algorithmic IT operations
+Analyzing test runs
+Anemic REST
+APIs as a product
+Apollo Federation
+Applying product management to internal platforms
+Architectural fitness function
+Automate database deployment
+Automated deployment pipeline
+Automated machine learning (AutoML)
+Automation of technical tests
+Autonomous bubble pattern
+BEM
+BERT
+BeyondCorp
+BFF - Backend for frontends
+Big Data envy
+Binary attestation
+Blockchain beyond bitcoin
+Blue-green deployment
+Bounded Buy
+Bounded low-code platforms
+Bridging physical and digital worlds with simple hardware
+Browser-tailored polyfills
+Bug bounties
+Build pipelines
+Build your own radar
+Canary builds
+Capability modeling
+Capture domain events explicitly
+Capturing client-side JavaScript errors
+Categorization &amp; prioritization of technical debt
+Chaos Engineering
+Chaos Katas
+CI theatre
+Client and server rendering with same code
+Client-directed query
+Cloud lift and shift
+Co-location by telepresence
+Coding architects
+Collaborative analytics and data science
+Concurrency abstractions and patterns
+Configuration in DNS
+Consumer-driven contract testing
+Container security scanning
+Content Security Policies
+Continuous Delivery (CD)
+Continuous delivery for machine learning (CD4ML)
+Continuous delivery for mobile devices
+Continuous deployment
+Conversationally aware APIs
+Crypto shredding
+Data discoverability
+Data integrity at the origin
+Data Lake
+Data mesh
+Data visualizations of development and operations
+Database based integration
+Database migrations for NoSQL
+Datensparsamkeit
+Decentralized identity
+Decision driven BI
+Declarative data pipeline definition
+Declarative provisioning
+Decoupling deployment from release
+Decoupling secret management from source code
+DeepWalk
+Dependency drift fitness function
+Deployment and scripting test tools
+Design systems
+DesignOps
+Development environments in the cloud
+DevOps
+Diagrams as code
+Differential privacy
+Distroless Docker images
+Docker for builds
+Domain-scoped events
+Edge Side Includes for page composition
+Embedded mobile mocks
+Emergent design
+Enterprise-wide integration test environments
+ESBs in API Gateway&#39;s clothing
+Ethereum for decentralized applications
+Ethical bias testing
+Ethical OS
+Event APIâ€™s
+Event driven business intelligence
+Event interception
+Event Sourcing
+Event Storming
+Event streaming as the source of truth
+Evolutionary architecture
+Evolutionary database
+Exhaustive browser based testing
+Experience Design (XD)
+Explainability as a first-class model selection criterion
+Feature branching
+Federated learning
+Flux
+Focus on mean time to recovery
+Forward Secrecy
+Four key metrics
+Front end instrumentation
+Front-end integration via artifact
+Generated infrastructure diagrams
+Generic cloud usage
+Git based CMS/Git for non-code
+Gitflow
+GraphQL for server-side resource aggregation
+Guerrilla user testing
+Health check pages
+High performance envy/web scale envy
+Hipster batch
+Hosted IDE&#39;s
+Hosted identity management as a service
+Hosting PII data in the EU
+HTML5 storage instead of cookies
+Humane registry
+Idempotency filter
+iFrames for sandboxing
+Ignoring OWASP Top 10
+In-process acceptance testing
+Incremental delivery with COTS
+Infrastructure as code
+Infrastructure automation of development workstations
+Infrastructure configuration scanner
+Instrument all the things
+Inverse Conway Maneuver
+Iterative data warehousing
+JAMstack
+Jupyter for automated testing
+Kube-managed cloud services
+Lambda pinball
+Layered microservices architecture
+Lean software development
+Legacy in a box
+Legacy migration feature parity
+Lightweight Architecture Decision Records
+Living CSS Style Guides
+Local storage sync
+Log aggregation for business analytics
+Log level per request
+Logs as data
+Long-lived branches with Gitflow
+Machine image as a build artifact
+Machine image pipelines
+Managing stateful systems via container orchestration
+Manual infrastructure management
+Master data management
+Masterless Chef/Puppet
+Mechanical sympathy
+Micro frontend anarchy
+Micro frontends
+Micro frontends for mobile
+Microservice envy
+Microservices
+Minimizing application configuration
+Mobile first
+Mobile testing on mobile networks
+Monitoring of invariants
+Multi-account cloud setup
+NoPSD
+NPM for all the things
+Observability as code
+Offline first web applications
+Open Application Model (OAM)
+Opinionated and automated code formatting
+Out-of-container functional testing
+OWASP ASVS
+Pace-layered Application Strategy
+Parallel run with reconciliation
+Partition infrastructure along team bounds
+Performance testing as a first-class citizen
+Perimeterless enterprise
+Phoenix Environments
+Pipelines as code
+Pipelines for infrastructure as code
+Platform engineering product teams
+Platform roadmaps
+Polycloud
+Polyglot Persistence
+Polyglot programming
+Pragmatic remote pairing
+Pre-commit downstream build checks
+Preflight builds
+Privacy-preserving record linkage (PPRL) using Bloom filter
+Procedure oriented integration
+Production immune system
+Productionizing notebooks
+Products over projects
+Programming in your CI/CD tool
+Progressive Enhancement
+Progressive Web Applications
+Promises for asynchronous programming
+Property-based unit testing
+Prototyping with InVision and Sketch
+Provisioning testing
+Puncturing encapsulation with change data capture
+QA in production
+Reactive architectures
+Real-time business intelligence
+Recreating ESB antipatterns with Kafka
+Release train
+Remote usability testing
+Request-response events in user-facing workflows
+Responsive web design
+REST without PUT
+Risk-commensurate vendor strategy
+RPA
+Run cost as architecture fitness function
+SAFeâ„¢
+Scrum certification
+Secrets as a service
+Secure enclaves
+Security Chaos Engineering
+Security policy as code
+Security sandwich
+Segregated DOM plus node for JS Testing
+Semantic monitoring
+Semi-supervised learning loops
+Separate DevOps team
+Server / application container end-of-life
+Serverless architecture
+Service choreography
+Service mesh
+Sidecars for endpoint security
+Siloed metrics
+Simple performance trending
+Simplest possible feature toggle
+Single command deploy
+Smart contracts
+Smart systems
+Snapshot testing only
+Social code analysis
+Spec-based codegen
+Static site generators
+Structured logging
+Switchback experimentation
+Tailored service templates
+Tangible interaction
+TDD&#39;ing containers
+Templating in YAML
+Test at the appropriate level
+Test recorders
+Testing as a separate organization
+Testing using real device
+The three Rs of security
+Thoughtful caching
+Threat Modeling
+Transfer learning for NLP
+Unikernels
+Use &#34;remote native&#34; processes and approaches
+User centered design
+Velocity as productivity
+Verifiable credentials
+Versioning data for reproducible analytics
+Visualization and metrics
+VR beyond gaming
+Wardley mapping
+Web as platform
+Windows infrastructure automation
+Work-in-Progress limits
+Zero trust architecture
+Zhong Tai

@@ -1,0 +1,332 @@
+acs-engine
+Airflow
+Amazon Rekognition
+Android-x86
+Ansible
+Ant
+AnyStatus
+Apache camel
+Apache Kafka
+Apache Pig
+Apache Superset
+Apex
+API management services
+Aplas
+AppCode
+Appium
+Appium Test Distribution
+Archery
+ArchUnit
+asdf-vm
+ASP
+assertj-swagger
+AsyncAPI
+AVA
+AWSume
+axios
+Azure Data Factory for orchestration
+Babel
+BackstopJS
+batect
+Bitrise
+Blackbox
+Bokeh
+Boot2docker
+Bottled Water
+Brighter
+Browser-based templating
+Browsersync
+Buildkite
+Caching reverse proxies
+Cage
+Cake and Fake
+Calabash
+Carthage
+CartoDB
+cfn_nag
+Chaos Monkey
+Cilium
+CircleCI
+Citrix for development
+Claudia
+Client-side MVC
+Clojure.spec
+Cloud-init
+CML
+Code in configuration
+Codefresh
+Commitizen
+Composer
+Concourse
+Conduit
+ConfigCat
+Consul
+Crazy Egg
+Cross mobile platforms
+Cross-platform mobile toolkits
+Cursive
+CVXPY
+Cypress
+D3
+Dash
+dbt
+Dc.js
+Deltacloud
+Dependabot
+Dependency management for JavaScript
+Dependency Structure Matrices
+Detekt
+Distributed version control
+Docker Notary
+Docker Toolbox
+Dojo
+DVC
+Elasticsearch LTR
+Eleventy
+Embedded servlet containers
+ESB
+ESLint
+Espresso
+Experiment tracking tools for machine learning
+Facets
+Falco
+Faraday
+fastlane
+FBSnapshotTestcase
+Figma
+Flagger
+Flagr
+Flow
+Flume
+Flyway
+Foreman
+FPM
+Frank
+Galen
+Gatling
+Gauge
+GemJars
+GenyMotion
+Git
+git-secrets
+GitHub
+GitLab
+Gitpod
+Gitrob
+GitUp
+Gloo
+GoCD
+Google Wave
+gopass
+Gor
+Gorilla REPL
+Goss
+gossm
+Gradle
+Grafana
+Grafeas
+Graphite
+Grasp
+Great Expectations
+Gremlin
+Grunt.js
+Gulp
+Hamms
+Handwritten CloudFormation
+HashiCorp Vault
+Headless Chrome for front-end test
+Headless Firefox
+Heavyweight test tools
+Helm
+Heptio Ark
+Highcharts
+Hosted solutions for testing iOS
+Humio
+Hystrix
+Icon fonts
+ievms
+Immutable servers
+in-toto
+IndexedDB
+InSpec
+Intentional Software
+Jade
+Jaeger
+JavaScript micro frameworks
+JavaScript tooling
+Jekyll
+Jenkins as a deployment pipeline
+Jib
+jQuery Mobile
+jscodeshift
+JSONassert
+jsoniter
+Jupyter
+k6
+k9s
+Katran
+Kiali
+kind
+Kong API Gateway
+kops
+kube-bench
+Kubeflow
+Kubernetes Operators
+Kustomize
+LambdaCD
+Language workbenches
+leaflet.js
+Lens
+Let&#39;s Encrypt
+LGTM
+Librarian-puppet and Librarian-Chef
+Light Table
+Lighthouse
+Litmus
+Load Impact
+LocalStack
+Locust
+Log aggregation &amp; indexing
+Logic-free markup
+Logstash &amp; Graylog2
+Loki
+Lottie
+Manifold
+Maven
+MemGuard
+Mercurial
+Mermaid
+Message buses without smarts
+mkcert
+MLflow
+Moco
+Molecule
+Mountebank
+MURAL
+NaCl
+New Relic beyond Rails
+Next-generation test tools
+NoSQL
+nsp
+NuGet
+Ocelot
+Octopus
+Opacus
+Open Policy Agent (OPA)
+Open source BI/ETL tools
+OpenAPM
+Optimal Workshop
+Origami
+OSS Index
+OWASP Dependency-Check
+Pa11y
+Packer
+Packetbeat
+Pact &amp; Pacto
+Pageify
+Papertrail
+Parcel
+Patroni
+pdfmake
+PhantomJS
+Phrase
+Pinpoint
+Pitest
+PlantUML
+Playwright
+pnpm
+Polly
+Polyglot development environments
+Postman
+PowerShell
+Prettier
+Prometheus
+Prototype On Paper
+Protractor for AngularJS
+PSake
+Pumba
+Puppet
+Quick
+Rake for Java &amp; .NET
+RAML
+RDF triple stores
+React Styleguidist
+Reactive Extensions for .Net
+Rendertron
+Repsheet
+REST-assured
+Restfulie
+Rider
+Riemann
+Roslyn
+SaaS performance testing tools
+Scikit-learn
+ScoutSuite
+Security Monkey
+Selenium 2 testing of mobile websites
+Sensei
+Sensu
+Sentry
+Serverless Framework
+Serverspec
+ShellCheck
+Silverback
+Sizzy
+Skaffold
+Sleepy Puppy
+SnapCI
+Snowpack
+Snowplow Analytics &amp; Piwik
+Snyk
+Sonar
+Sonobuoy
+Spacemacs
+spaCy
+Spinnaker
+Splunk
+Spring Cloud Contract
+Squid
+Stanford CoreNLP
+Stolon
+Stryker
+Subversion
+Swagger
+Swashbuckle for .NET Core
+SysDig
+Systems
+Talisman
+Taurus
+Terraform
+Terraform provider GoCD
+Terragrunt
+Terratest
+TestCafe
+TestFlight &amp; HockeyApp
+Testinfra
+TFS
+tfsec
+TLB
+tmate
+Traefik
+Trivy
+Twistlock
+UI dev environments
+UIAutomator
+Vagrant
+VCS with â€œimplicit workflowâ€�
+Visual regression testing tools
+Visual Studio Code
+Visual Studio Live Share
+Visualizations for business data
+Wallaby.js
+WCF HTTP
+Webpack
+What-If Tool
+WireMock
+Xamarin
+Yarn
+Yocto Project
+ZAP
+Zipkin
+Zola
+Zucchini
